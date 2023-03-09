@@ -48,6 +48,8 @@
   
   18. Do clear expectations and performance specifications exist?
   
+  19. Is the website intended to allow payments to be made online? Will bookings, payments, or both be intended to be made on the new web application?
+  
   
   Scheleduled Feasibility (for our expectations regarding acceptable timing and completion dates, if budget increased accordingly a project shedule might be possible)
   
