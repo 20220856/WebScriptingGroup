@@ -9,3 +9,5 @@ The first project (The business case and the requirements analysis) are due on t
 ---
 
 ## Our notes are [here](./notes/notes-main.md).
+
+## Initial Requirements Analysis is [here](/projects/requirements-analysis/initial.md)
