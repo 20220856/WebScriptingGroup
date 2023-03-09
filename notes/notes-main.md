@@ -29,8 +29,8 @@
 
    9. Tongariro wants to modernize its system to bring more customers: How many customers ordered tickets in         the last month?
   
-  Operational Feasibility
   
+      Operational Feasibility
   10. Does management support the project? Is the current system well-liked and effectively used? Do users           see the need for change?
   11. Will the new system result in a workforce reduction? If so, is the company prepared to provide the             necessary resources for training current employees?
    12. Does the development schedule conflict with other company priorities?
@@ -38,6 +38,19 @@
       Operational Feasibility
       
   
-      
+      Technical Feasibility
+  14. Does Tongariro Cinema have the necessary hardware, software, and network resources? If not, can those           resources be acquired without difficulty?
+  
+  15. Does Tongariro have the needed technical expertise? If not, can it be acquired?
+
+  16. Will a prototype be required?
+  
+  17. Will the combination of hardware and software supply adequate performance?
+  
+  18. Do clear expectations and performance specifications exist?
   
   
+  Scheleduled Feasibility
+  
+  19. Has management established a firm timetable for the project?
+  20. What conditions must be satisfied during the development of the system?
