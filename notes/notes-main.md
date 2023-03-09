@@ -14,10 +14,10 @@
   A user-friendly system that improves employee job satisfaction?
  
   5. The Manager reports to the board once a month. 
-      Why do you perform the task that way? The cinema belongs to a trust, which belongs to a board. Especially during covid orange this was an issue. 
+      Why do you perform the task that way? The cinema belongs to a trust, which belongs to a board. Especially during covid orange this was an issue. wants to remain in person.
 
   6. The Admin/Secretary/Finance person is responsible for managing bookings, and cancellations, reconciling           income and preparing monthly board reports. 
-      How are the checks reconciled?
+      How are the checks reconciled? all currently done manually.
       What added features would you like to have in the new billing system? Modernisation of the booking system IN the theatre complex to integrate with online.
   
    7. Tongariro wants to modernize its system to bring more customers:
@@ -49,16 +49,16 @@
 
   16. Will a prototype be required? YES - prototype needed. business analyst report & req. analysis, feasability , and final product
   
-  17. Will the combination of hardware and software supply adequate performance?
+  17. Will the combination of hardware and software supply adequate performance? NO - everything needs upgrade and overhaul
   
-  18. Do clear expectations and performance specifications exist? Just looking to streamline.
+  18. Do clear expectations and performance specifications exist? primarily looking to streamline.
   
-  19. Is the website intended to allow payments to be made online? Will bookings, payments, or both be intended to be made on the new web application?
+  19. Is the website intended to allow payments to be made online? Will bookings, payments, or both be intended to be made on the new web application? yes and yes
   
   
   Scheleduled Feasibility (for our expectations regarding acceptable timing and completion dates, if budget increased accordingly a project shedule might be possible)
   
-  19. Has management established a firm timetable for the project?
+  19. Has management established a firm timetable for the project? 
   20. What conditions must be satisfied during the development of the system?
   
  ---
