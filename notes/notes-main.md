@@ -30,13 +30,13 @@
    9. Tongariro wants to modernize its system to bring more customers: How many customers ordered tickets in         the last month?
   
   
-      Operational Feasibility
+      Operational Feasibility ( this is so we can ensure that the system will be used effectively)
   10. Does management support the project? Is the current system well-liked and effectively used? Do users           see the need for change?
   11. Will the new system result in a workforce reduction? If so, is the company prepared to provide the             necessary resources for training current employees?
    12. Does the development schedule conflict with other company priorities?
    13. Do legal or ethical issues need to be considered?
       
-  Technical Feasibility
+  Technical Feasibility (so we can highlight technical cost and concerns if any)
       
   14. Does Tongariro Cinema have the necessary hardware, software, and network resources? If not, can those           resources be acquired without difficulty?
   
@@ -49,7 +49,7 @@
   18. Do clear expectations and performance specifications exist?
   
   
-  Scheleduled Feasibility
+  Scheleduled Feasibility (for our expectations regarding acceptable timing and completion dates, if budget increased accordingly a project shedule might be possible)
   
   19. Has management established a firm timetable for the project?
   20. What conditions must be satisfied during the development of the system?
