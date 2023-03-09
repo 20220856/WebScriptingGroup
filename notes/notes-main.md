@@ -27,4 +27,14 @@
    8.The Admin/Secretary/Finance person and Manager share a computer to access the Xero accounting package and         manage emails:
       How many personal computers do you have in this department? 
 
-   9. Tongariro wants to modernize its system to bring more customers: How many customers ordered tickets in the        last month?
+   9. Tongariro wants to modernize its system to bring more customers: How many customers ordered tickets in         the last month?
+
+     <br>
+      Operational Feasibility
+      <hr>
+      Does management support the project? Is the current system well-liked and effectively used? Do users see       the need for change?
+      Will the new system result in a workforce reduction? If so, is the company prepared to provide the             necessary resources for training current employees?
+      Does the development schedule conflict with other company priorities?
+      Do legal or ethical issues need to be considered?
+  
+  
