@@ -7,6 +7,6 @@
   
   3. You mentioned there's a cafe, are customers allowed to bring cafe food and drinks into the theatre?
   
-  4. Would you want an Instagram profile for Tongariro Cinemas to promote new release movies, events and discounts?
+  4. You mentioned you want to do something more online and a bigger presence in social media - would you want an Instagram profile for Tongariro Cinemas to promote new release movies, events and discounts?
   
  
