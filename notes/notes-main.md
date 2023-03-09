@@ -20,3 +20,11 @@
     How are the checks reconciled?
     What added features would you like to have in the new billing system?
   
+  <br>
+  
+On a scale of 1 to 10, with 1 being the lowest and 10 the highest
+
+Tongariro wants to modernize its system to bring more customers:
+
+- **How would you rate the severity of the problem: low, medium, or high?**
+- Is the system shutdown something that occurs never, sometimes, often, usually, or always?
