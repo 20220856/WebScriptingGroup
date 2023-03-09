@@ -35,10 +35,9 @@
   11. Will the new system result in a workforce reduction? If so, is the company prepared to provide the             necessary resources for training current employees?
    12. Does the development schedule conflict with other company priorities?
    13. Do legal or ethical issues need to be considered?
-      Operational Feasibility
       
-  
-      Technical Feasibility
+  Technical Feasibility
+      
   14. Does Tongariro Cinema have the necessary hardware, software, and network resources? If not, can those           resources be acquired without difficulty?
   
   15. Does Tongariro have the needed technical expertise? If not, can it be acquired?
