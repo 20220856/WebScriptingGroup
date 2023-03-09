@@ -1,5 +1,6 @@
 # A general place to write notes.
 <h6> Questions <h6>
+  
   1. With the 50k budget, you say you want to upgrade your system - would you want to add Paywave?
   
   2. By upgrading your system, would you want a self service kiosk for customers to book tickets themselves?
