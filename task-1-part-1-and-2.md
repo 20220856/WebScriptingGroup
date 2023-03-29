@@ -1,0 +1,26 @@
+# Part 1: Business Analysis
+
+### Task 1: Current Business Requirements.
+
+Tongariro Cinemas is an independant cinema located in Newton, Wellington. Since February 2023, they have been seen the need to update their antiquated systems and attract people back to theatres. As such, we have been approached to produce a Requirements Analysis Report for Tongariro Cinemas.
+Listed below is an overview of the business requirements for the new system as they stand currently;
+
+- Foremost, the budget for any system upgrades or overhauls must be within $50,000/NZD. This includes softwares, licensing, purchase of new devices, costs of development, and any other hardware that may be required in the overhauling of outdated systems. This sum specifically eschews costs related to existing staff upkeep, utility bills, premises leasing, and any other such expenses not directly related to the overhauling of the system.
+
+- Tongariro Cinemas has expressed the desire to have a website created for the company. As there is no existing website, this will need to be designed and created from the ground-up. Additionally, the website must allow for integration of mordernised systems from within the complex. This means that the films listed, bookings, prices, and other customer-facing information must be able to be managed directly by Tongariro Cinemas staff members. Finally, customers themselves must also be able to make bookings online, therefore the website must be capable of database integration and manipulation. Direct purchases and payments will still be made in person, using eftpos.
+
+- Tongariro Cinemas has specifically stated that the purpose of such an overhaul is to allow for complete digital integration of the cinema complex. This means that old systems (such as manual bookkeeping and analogue storage solutions) must be completely reworked in order to integrate with newer, modern systems. An additional challenge is that, as mentioned, many systems must be capable of integrations with the Tongariro Web Application. As a lot of integral systems (such as a digital system for booking) are currently absent, these mordernisations can be made in tandem with development of the website, improving the ability for them to be more easily integrated.
+
+- As there are few members of staff, and Tongariro Cinemas currently employs volunteers as part of their workforce, a reduction and optimisation of workflow are a crucial part of the overhaul. As the majority of systems are analogue and operated manually, there is great potential for reduction of total workload, as well as substantial possibility of partial automation. Once the initial "culture shock" of moving from an analogue system to a digital system has passed, and staff have undergone sufficient training to utilise it, *ANY* digital system would likely be leagues above what is currently in place at Tongariro Cinemas.
+
+### Task 2: Current Business Processes.
+
+At Tongariro Cinemas, there are a variety of tasks and activities that must be undergone in order to ensure functioning of the business. Currently, as many systems are not modernised, the majority of these are performed by hand, in ways that could be seen as ineffectual in the modern age. In order to combat this, the way Tongariro Cinemas conducts business must be overhauled alongside the systems that are being replaced. Business processes that Tongariro Cinemas must undergo include;
+
+- The organisation of film screening times. Currently, this is performed manually, and recorded in a ledger, whereas within the new, overhauled system, screening sessions will be directly modified digitally, and will easily be transferrable to the Web Application.
+
+- The booking of individuals to see film screenings. This is recorded in a similar fashion to the screenings times, and comes with a whole host of issues in its current iteration. The overhauled version will include a fully-digital booking system that will record not only the bookings of customers, but their seat number, film screening time, status on whether they have paid, and other information necessary all within a database within Tongariro Cinemas.
+
+- The licencing and rights to screen films. Currently the process of aquiring licensing for the screening of films must be an arduous, and borderline impossible prospect for Tongariro Cinemas. Without a digital system in place, it could be imagined that Tongariro Cinemas may be entirely incapable of aquiring such licensing. Whatever the case, this necessity will be substantially streamlined and made significantly easier through the adoption of a digital system.
+
+- The management of customer proceeds, expenses, and taxation - in short, finances. All financial activities are, once more, fully analogue at this stage, meaning that - in addition to the logistical hurdles that come with a fully document-based system in terms of administration, customers are also inconvenienced as there is no eftpos available - making the cinema *(as it stands now)* cash-only. In the modern age, this is obviously not suitable, so the modernisation of business finances, both from and administrative standpoint, and a customer-facing position are imperative for the success of Tongariro Cinemas
