@@ -35,9 +35,10 @@ A business domain model is a collection of terminology, areas of application, an
 ![Business Domain Model](https://user-images.githubusercontent.com/110361869/228859436-9c9a70c0-2576-4932-9d70-ba407889f237.jpg)
 
 ### Verifying and Validating Requirements for Tongariro Cinemas
-In order to verify the requirements of the upgrades for Tongariro Cinemas, an extensive process was and is being undertaken; 
+In order to verify the requirements of the upgrades for Tongariro Cinemas, an extensive process was and is being undertaken; stakeholders in Tongariro Cinemas are constantly collaborated with throughout the process of development in order to ensure that proceeds are as expected and anticipated.
 
-### Analyse non-functional requirements
+### Analyse Non-Functional Requirements for Tongariro Cinemas
+When overhauling a system such as that within Tongariro Cinemas, there are a variety of non-functional requirements that also must be taken account of.
 
 ### Defining the Scope of Overhauls for Tongariro Cinemas
 
