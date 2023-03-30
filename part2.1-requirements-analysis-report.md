@@ -28,19 +28,19 @@ The modelling of requirements effectively consists of the means that will be und
 
 ![Client Requirements Model](https://user-images.githubusercontent.com/110361869/228809616-4b42dfb4-cb7b-4e6d-86ee-dff88b3f8623.jpg)
 
+### Business Domain Model for Tongariro Cinemas
 
-### Business Domain Models
+A business domain model is a collection of terminology, areas of application, and topics related to the functioning of a business. It is used to represent the general means of the business functioning at an introductory level - it conveys meaning as to how the business functions without delving into specifics. The model of Tongariro Cinemas' business domain is available below.
 
-### Verifying Requirements
-we spoke to george
+![Business Domain Model](https://user-images.githubusercontent.com/110361869/228859436-9c9a70c0-2576-4932-9d70-ba407889f237.jpg)
 
+### Verifying and Validating Requirements for Tongariro Cinemas
+In order to verify the requirements of the upgrades for Tongariro Cinemas, an extensive process was and is being undertaken; 
 
---- WIP
+### Analyse non-functional requirements
 
+### Defining the Scope of Overhauls for Tongariro Cinemas
 
-Analyse non-functional requirements
-Validating Requirements
-Defining Scope
+### Design of Overhauls for Tongariro Cinemas
 
-
-Principles, Tasks, Good Design, User Interface, UI, UX and accessibility
+>> Principles, Tasks, Good Design, User Interface, UI, UX and accessibility
