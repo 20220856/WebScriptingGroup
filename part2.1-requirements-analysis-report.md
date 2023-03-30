@@ -20,9 +20,10 @@ The primary source of Requirement Elicitation for Tongariro Cinemas was speaking
 
 Additionally, we performed a stakeholder analysis, ensuring that all new and existing parties are accounted for. Notably, Tongariro Cinemas' interactions with film licensing companies will shift greatly, from primarily telephone-based *(and overall, rather inconvenient)* to fully digital. One stakeholder that is NOT affected by the changes in modernisation of the premises at this time is the Café, leased by Moriarty Catering Co. - none of the systems overhauled belong to the café, therefore the general operation of the lessee will be unaffected.
 
-Finally, we performed a Document Analysis/Review of the existing documentation of systems at Tongariro Cinemas, making clear that the financial systems *(currently entirely analogue)* are entirely out-of-date, and not up to the modern standard. 
+Finally, we performed a Document Analysis/Review of the existing documentation of systems at Tongariro Cinemas, making clear that the financial systems *(currently entirely analogue)* are entirely out-of-date, and not up to the modern standard. Financial records were performed entirely by hand, including processing of customer payments, deduction of taxes, processing of employee payments, and financial reinvestment within the business. Worryingly, some of this documentation was incomplete, meaning the current storage and organisational systems are also lacking. These issues further reinforced the need for a fully digital financial management suite, and full modernisation of management systems.
 
 ### Modelling Requirements
+The modelling of requirements effectively consists of the means that will be undertaken in order to fulfill above objectives, presented as a visual medium. The requirements model is available below.
 
 ### Business Domain Models
 
