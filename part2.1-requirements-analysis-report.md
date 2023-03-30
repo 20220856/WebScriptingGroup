@@ -35,10 +35,18 @@ A business domain model is a collection of terminology, areas of application, an
 ![Business Domain Model](https://user-images.githubusercontent.com/110361869/228859436-9c9a70c0-2576-4932-9d70-ba407889f237.jpg)
 
 ### Verifying and Validating Requirements for Tongariro Cinemas
-In order to verify the requirements of the upgrades for Tongariro Cinemas, an extensive process was and is being undertaken; stakeholders in Tongariro Cinemas are constantly collaborated with throughout the process of development in order to ensure that proceeds are as expected and anticipated.
+In order to verify the requirements of the upgrades for Tongariro Cinemas, an extensive process was and is being undertaken; stakeholders in Tongariro Cinemas are constantly collaborated with throughout the process of development in order to ensure that proceeds are as expected and anticipated. The comprehensive design of the systems ensures that all aspects of intended design are present. Clear and concise communications between teams ensures that no aspects of design are "lost in translation", therefore also allowing information to be readable at a glance - even to someone unfamiliar with the project.
+
+The validity of the web application system so far has been proven through the afformentioned collaboration, as well as extensive prototyping of the expected outcome of the web application - we have used this prototype in order to "iron out" any misconstruencies or miscommunications between the application development team and the directing board of Tongariro Cinemas.
 
 ### Analyse Non-Functional Requirements for Tongariro Cinemas
-When overhauling a system such as that within Tongariro Cinemas, there are a variety of non-functional requirements that also must be taken account of.
+When overhauling a system such as that within Tongariro Cinemas, there are a variety of non-functional requirements that also must be taken account of. These determine not what the system consists of, but rather how the system is expected to perform following modernisation.
+
+The first of these is an optimisation of workflow and reduction of total workload. Overall, the current means of operating Tongariro Cinemas is highly labour-intensive relative to the industry standard, as many processes that could otherise be automated or optimised are instead performed manually. From handling of finances manually within ledgers, to licensing deals, to management of staff and wages - everything is currently done manually, with little to no computational assistance. The success of this criteria will be easily measured based on how long to takes to perform a certain task - for example the time it takes to process an employee paycheck before and after optimisation.
+
+The second non-functional requirement is a reduction in general operational costs. As with any business venture, Tongariro Cinemas' total profits are equal to revenue minus operational costs, therefore - as a private enterprise - monentary optimisation is a driving factor. The afformentioned reduction of workload and improvement in overall employee productivity should substantially reduce the amount of time staff spend on tasks, improving overall output throughout the theatre. Measuring this is as simply as analysing finances before and after *(of course, given a period of time for adjustment)* the optimisations to the system are made.
+
+
 
 ### Defining the Scope of Overhauls for Tongariro Cinemas
 
