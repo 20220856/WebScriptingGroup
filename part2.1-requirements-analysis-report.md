@@ -25,6 +25,9 @@ Finally, we performed a Document Analysis/Review of the existing documentation o
 ### Modelling Requirements
 The modelling of requirements effectively consists of the means that will be undertaken in order to fulfill above objectives, presented as a visual medium. The requirements model is available below.
 
+![Client Requirements Model](https://user-images.githubusercontent.com/110361869/228809616-4b42dfb4-cb7b-4e6d-86ee-dff88b3f8623.jpg)
+
+
 ### Business Domain Models
 
 ### Verifying Requirements
