@@ -22,7 +22,8 @@ Additionally, we performed a stakeholder analysis, ensuring that all new and exi
 
 Finally, we performed a Document Analysis/Review of the existing documentation of systems at Tongariro Cinemas, making clear that the financial systems *(currently entirely analogue)* are entirely out-of-date, and not up to the modern standard. Financial records were performed entirely by hand, including processing of customer payments, deduction of taxes, processing of employee payments, and financial reinvestment within the business. Worryingly, some of this documentation was incomplete, meaning the current storage and organisational systems are also lacking. These issues further reinforced the need for a fully digital financial management suite, and full modernisation of management systems.
 
-### Modelling Requirements
+### Modelling Requirements for Tongariro Cinemas
+
 The modelling of requirements effectively consists of the means that will be undertaken in order to fulfill above objectives, presented as a visual medium. The requirements model is available below.
 
 ![Client Requirements Model](https://user-images.githubusercontent.com/110361869/228809616-4b42dfb4-cb7b-4e6d-86ee-dff88b3f8623.jpg)
