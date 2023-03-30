@@ -46,9 +46,13 @@ The first of these is an optimisation of workflow and reduction of total workloa
 
 The second non-functional requirement is a reduction in general operational costs. As with any business venture, Tongariro Cinemas' total profits are equal to revenue minus operational costs, therefore - as a private enterprise - monentary optimisation is a driving factor. The afformentioned reduction of workload and improvement in overall employee productivity should substantially reduce the amount of time staff spend on tasks, improving overall output throughout the theatre. Measuring this is as simply as analysing finances before and after *(of course, given a period of time for adjustment)* the optimisations to the system are made.
 
-A third non-functional requirement is the potential for future expansion of the overall system. Whilst the semantics of "expandability" as a function could be debated, 
+A third non-functional requirement is the potential for future expansion of the overall system. Whilst the semantics of "expandability" as a function could be debated, the entire premise of expanding Tongariro Cinemas beyond its current form is a relatively new premise; a discussion with the managing director revealed that there were currently no plans to expand the cinema complex, or to open other complexes elsewhere. However, expandability of any business is a neccesary option, and it much better to have the option included than not.
 
 ### Defining the Scope of Overhauls for Tongariro Cinemas
+It is important to set a reasonable scope for the changes to be made within the Tongariro Cinemas complex; whilst it is important to modernise the existing system and bring it to a standard beyond what is currently in place, this does not mean that all elements currently utilised are in need of replacement.
+
+In the case of the web application, it needs to be build from the ground-up *(as there is no preexisting website)*
+
 
 ### Design of Overhauls for Tongariro Cinemas
 
