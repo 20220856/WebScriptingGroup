@@ -51,9 +51,22 @@ A third non-functional requirement is the potential for future expansion of the 
 ### Defining the Scope of Overhauls for Tongariro Cinemas
 It is important to set a reasonable scope for the changes to be made within the Tongariro Cinemas complex; whilst it is important to modernise the existing system and bring it to a standard beyond what is currently in place, this does not mean that all elements currently utilised are in need of replacement.
 
-In the case of the web application, it needs to be build from the ground-up *(as there is no preexisting website)*
+In the case of the web application, it needs to be built from the ground-up *(as there is no preexisting website)*. Therefore, the Minimum Viable Product (MVP) must contain at least: A homepage, a login page, a page listing screenings, a booking page, and a page with contact information for Tongariro Cinemas.
 
+Additionally, as none of the facilities onsite possess capability to work in conjunction with the new system, new devices need to be purchased and set-up in order to allow full use of the new software suite. This means that a *(likely considerable)* portion of the budget is to be spent on devices for the premises in order to attain complete functionality for all intended use cases.
+
+Finally, in order to ensure that the new computers systems and software can be used correctly once they are in place, a series of staff training sessions will need to be undertaken in order to ensure employees at Tongariro Cinemas possess the necessary knowledge to utilise the systems in place.
+
+In total, Tongariro Cinemas is receiving a completely new suite of online software, an array of administrative and financial management software, a series of new devices *(possibly including a server for website hosting)*, and a comprehensive staff re-training programme.
 
 ### Design of Overhauls for Tongariro Cinemas
+A large contributor to the likelihood of success of the web application is successful design. There are a large variety of steps that must be taken in order to ensure a modern, all-encompassing, and overall successful design is put in place;
 
->> Principles, Tasks, Good Design, User Interface, UI, UX and accessibility
+The first of these are the design principles used during creation of the application. There are a variety of principles of design, including correct proportioning, patterning, colouration, contrast, utilisation of space, and careful page balance. In order to ensure that the final product is appealing for consumers, generally agreed-upon design principles must be followed, as anything not condusive to "the norm" is often seen as garish and unsightly.
+
+The particular modus operandi for the design of the web application is goal-oriented. This means that the bigger picture - the sum-of-all-parts, so to speak, is the focus of the design. The most important feature for Tongariro Cinemas - coming from a position of having no website to speak of at all - is to develop a complete application, in tandem, from scratch.
+
+In order to ensure the web application follows principles of good design, a focus has been placed on ease-of-usability for customers. The design of the web application strives to be unobtrustive, easy to navigate, aesthetically pleasing, and straightforward in its presentation. There is a heavy focus on keeping a clean and sleek User Interface, and ensuring the User Experience overall is easy, free from stress or difficulties, and accessable to any customers who could conceivably want to patronise a Cinema Complex.
+
+## Conclusion of Requirements Analysis Report for Tongariro Cinemas
+In conclusion, our Team's careful analysis of the needs of the business, constant interactions with shareholders, and consideration of the needs of users has resulted in a large collection of specific, but very achievable requirements for a successful overhaul of Tongariro Cinemas. The route to successful implimentation, design methodology, and customer requirements have been fully planned, and are now awaiting commencement. We will maintain contact with Tongariro Cinemas throughout the implimentation process, in order to ensure that all plans laid out within this report are successfully implemented.
